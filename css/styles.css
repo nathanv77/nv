@@ -89,6 +89,7 @@ div.body1{
 	height: 300px;
 	padding: 40px;
 	padding-top: 0;
+	padding-bottom:0;
 }
 p.downloads_button{
 	display: inline-block;
