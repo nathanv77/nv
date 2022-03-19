@@ -82,7 +82,7 @@ div.triangle_1{
 div.triangle_2{
 	background: url(../images/triangle1white.svg) no-repeat center top/100%;
 	background-color: var(--color_2);
-	height: 150px;
+	height: 100px;
 	padding: 30px;
 }
 div.body1{
