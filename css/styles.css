@@ -89,7 +89,7 @@ div.body1{
 	height: 300px;
 	padding: 40px;
 	padding-top: 0;
-	padding-bottom:0;
+	padding-bottom: 0;
 }
 p.downloads_button{
 	display: inline-block;
@@ -104,11 +104,6 @@ a.downloads_button{
 }
 p.downloads_button:hover{
 	border: 3px solid orange
-}
-p.downloads_ou{
-	display: inline-block;
-	margin-left: 10px;
-	margin-right: 10px;
 }
 div.body2{
 	height: 400px;
@@ -209,7 +204,6 @@ div.footer a{
 		margin-top: 10px;
 		height: 300px;
 		padding: 40px;
-		padding-bottom:60px;
 		padding-top: 0;
 		text-align: justify;
 	}
@@ -227,16 +221,6 @@ div.footer a{
 	.logo_3{
 		position: absolute;
 		left: 65%;
-	}
-	p.downloads_ou{
-		display: inline;
-		position: absolute;
-		margin-left: 0px;
-		margin-right: 0px;
-		opacity: 0;
-	}
-	p.downloads_button_2{
-		float: right;
 	}
 	div.footer{
 		padding-top: 15px;
