@@ -135,6 +135,9 @@ div.footer{
 div.footer p:first-child{
 	display: inline;
 }
+#footer_p_2{
+	display: inline-block;
+}
 div.footer a{
 	margin: 0;
 	float: right;
@@ -225,19 +228,8 @@ div.footer a{
 	div.footer{
 		padding-top: 15px;
 	}
-	div.footer p{
-		font-size: 10px;
-		display: inline;
-	}
 }
 @media only screen and (max-width: 378px){
-	div.footer a{
-		margin: 0;
-		float: left;
-		margin-top: 10px;
-	}
-}
-@media only screen and (max-width: 378px) {
 	div.footer a{
 		margin: 0;
 		float: left;
